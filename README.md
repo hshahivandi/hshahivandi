@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hshahivandi
+- 👋 Hi, I’m Hamid Shahivandi.
 - 👀 I’m interested in computational material science.
 - 🌱 I’m currently learning machine learning and python.
 - 💞️ I’m looking to collaborate on doing a project on perovskite solar cell using computational material science.
